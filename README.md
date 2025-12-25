@@ -1,28 +1,29 @@
 
-#IPL Cricket Data Analysis using Python
+# IPL Cricket Data Analysis using Python
 
-## Objective 
+# Objective 
 
 Analysis IPL match data to calculate
 average runs scored by teams.
 
-##Tools used
+# Tools used
 Python
 Pandas
 Matplotlib
 
-##Steps
+# Steps
 
 load csv Data
 group data by team
 calculate average runs
 visualize using bar chart
 
-##output
+# output
 
 average runs per team
 graphical representation
 
 
-##Author
+# Author
 Dinesh Pandiyan B 
+
