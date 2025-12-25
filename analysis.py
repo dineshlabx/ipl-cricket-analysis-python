@@ -2,9 +2,10 @@ import pandas as pd
 import matplotlib.pyplot as plt
 
 #step1  read csv file
+df = pd.read_csv("ipl_matches.csv")
 
 #step2 show data
-df = pd.read_csv("ipl_matches.csv")
+
 
 #step3 to remove whitespace in file
 df.columns=df.columns.str.strip()
@@ -21,4 +22,5 @@ avg_runs.plot(kind='bar')
 plt.title("Average runs by IPL team")
 plt.xlabel("team")
 plt.ylabel("Average runs per team")
+
 plt.show()
