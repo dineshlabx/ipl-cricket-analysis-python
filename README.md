@@ -8,7 +8,9 @@ average runs scored by teams.
 
 # Tools used
 Python
+
 Pandas
+
 Matplotlib
 
 # Steps
@@ -26,4 +28,5 @@ graphical representation
 
 # Author
 Dinesh Pandiyan B 
+
 
